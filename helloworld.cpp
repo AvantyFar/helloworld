@@ -1,8 +1,8 @@
-ï»¿#include <iostream>
+#include <iostream>
 
 int main()
 {
     std::setlocale(LC_ALL, "rus");
 
-    std::cout << "ÐŸÑ€Ð¸Ð²ÐµÑ‚ Ð¼Ð¸Ñ€!\n";
+    std::cout << "Ïðèâåò ìèð!\nHello world!\n";
 }
